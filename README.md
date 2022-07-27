@@ -1,8 +1,6 @@
-# StackOverFlowQuestions
+# GithubClosedPRs
 
-A native Android app that displays a list of recent Stack Overflow questions that:
-- have an accepted answer, and
-- contain more than one answer
+A native Android app that displays a list of pull requests that were closed for a Github repository:
 
 ​![alt text](https://github.com/tushar40/GithubPRs/blob/master/readme-images/githubclosedprs.png)
 
